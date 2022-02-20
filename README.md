@@ -10,7 +10,7 @@ Teaching a Warehouse Bot to drop a package using the shortest possible route usi
 Open up a new Unity project and import the package file (Warehouse-Qlearning.unitypackage).
 
 ## Simulation
-![Alt Text]()
+![Alt Text](https://github.com/7divs7/Warehouse2D-QLearning/blob/main/warehouse.gif)
 
 ## Author
 [![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-Profile-teal.svg)](https://www.linkedin.com/in/divyani-panda-5a8345194/)
